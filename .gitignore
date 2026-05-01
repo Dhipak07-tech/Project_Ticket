@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+service-account.json
+php-backend/service-account.json
+php-backend/vendor/
+php-backend/debug.log
+.vscode/
+.idea/
